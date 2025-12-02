@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+google-generativeai
+python-dotenv
+rich
+
+requests
+pillow
+importlib-metadata
+google-api-core==2.19.0

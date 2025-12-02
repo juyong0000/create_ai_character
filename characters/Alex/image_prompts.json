@@ -1,0 +1,188 @@
+{
+  "reference_portrait": {
+    "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, sophisticated but travel-weary appearance, neutral expression, looking directly at camera, soft studio lighting, plain light grey background, passport photo style, sharp focus, 8k, photorealistic",
+    "description": "Reference portrait for character consistency (Identity Photo)"
+  },
+  "memories": [
+    {
+      "memory_number": 1,
+      "memory_title": "Dead Air",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, sitting on edge of sagging motel bed, holding a fountain pen over blank paper, overwhelmed expression, trembling hands, dim motel room background, warm stale lamp lighting, cinematic film still, emotional atmosphere, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 2,
+      "memory_title": "The Sound of Ink",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, sitting on hood of vintage convertible car, holding notebook and pen, wind blowing hair, chaotic ocean background, cloudy sky, scenic coastal overlook, introspective expression, windy atmosphere, cinematic composition, environmental storytelling, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 3,
+      "memory_title": "Detox Symptoms",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, sitting in red vinyl diner booth, sketching on napkin, restless posture, looking out window, american diner background, coffee cup on table, soft daylight, indie movie aesthetic, highly detailed, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 4,
+      "memory_title": "Synthetic vs. Organic",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, standing in pine forest, pressing postcard against rough tree bark, looking at trees, peaceful expression, damp mossy background, soft natural lighting, depth of field, nature photography style, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 5,
+      "memory_title": "The B-Side of the Coast",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, sitting under rock overhang on beach, sheltering from rain, holding paper, rain falling in background, gray ocean waves, melancholic expression, vulnerable atmosphere, moody blue lighting, cinematic film still, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 6,
+      "memory_title": "Burnt Cassette",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, sitting in driver seat of convertible at night, dark highway background, dashboard lights illuminating face, intense regretful expression, looking into void, moody shadows, cinematic night photography, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 7,
+      "memory_title": "Lyrical Friction",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, standing in old post office, holding letter near brass mail slot, hesitation, focused expression, staring at envelope, indoor lighting, shallow depth of field, narrative photography, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 8,
+      "memory_title": "The Phantom Vibration",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, sitting in car driver seat, waking up from nightmare, sweating, hand on chest, panicked expression, dark interior, street lamp lighting outside window, claustrophobic atmosphere, cinematic close-up, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 9,
+      "memory_title": "Echoes in the Hallway",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, leaning against motel room doorframe, listening intently, hallway background with rows of doors, dim artificial lighting, thoughtful expression, cinematic composition, mystery atmosphere, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 10,
+      "memory_title": "Coffee Stains",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, sitting at messy wooden desk, looking at spilled coffee on paper, slight shrug, accepting expression, clutter of maps and cups, warm cabin lighting, cozy but messy atmosphere, slice of life photography, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 11,
+      "memory_title": "Stamp Collection",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, standing in general store, looking closely at postage stamps in hand, serious focused expression, blurred store shelves in background, soft lighting, indie movie aesthetic, extreme close-up on face and hands, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 12,
+      "memory_title": "Writer’s Block",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, sitting in armchair near woodstove, holding pen over blank paper, gazing at fire, peaceful blank expression, warm firelight illuminating face, cozy cabin interior, intimate atmosphere, low key lighting, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 13,
+      "memory_title": "The Gas Station Clerk",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, leaning against vintage convertible at gas station, faint genuine smile, relaxed posture, gas pumps in background, daytime lighting, americana aesthetic, cinematic film still, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 14,
+      "memory_title": "Fading Light",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, sitting on park bench, writing furiously in notebook, squinting eyes, urgent expression, twilight purple sky background, silhouette of trees, low light photography, atmospheric, grainy film look, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 15,
+      "memory_title": "Your Voice in the Margins",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, sitting by campfire at night, holding a letter, reading intently, soft smile, emotional expression, firelight glow on face, starry sky background, intimate atmosphere, cinematic lighting, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 16,
+      "memory_title": "A Melody for No One",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, sitting at grand piano in hotel lobby, hands hovering over keys, tense posture, looking away, defensive expression, elegant but dusty interior, soft window light, shallow depth of field, cinematic composition, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 17,
+      "memory_title": "The Lost Chorus",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, leaning on wooden pier railing, notebook in hand, looking down at dark swirling ocean water, seagulls in distance, melancholic expression, overcast sky, cinematic film still, wide angle, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 18,
+      "memory_title": "Paper Cut",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, looking closely at thumb, fascinated expression, holding an envelope, sharp focus on face and hand, blurred background, soft natural lighting, intimacy, detailed skin texture, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 19,
+      "memory_title": "Midnight Frequency",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, lying in bed at night, staring at ceiling, awake, pensive expression, longing, single warm bedside lamp on, dark shadows, insomnia atmosphere, cinematic top-down or side angle, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 20,
+      "memory_title": "Buying a New Pen",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, standing in stationery shop, holding brass pen, testing ink on paper, serious meticulous expression, shelves of notebooks in background, soft indoor lighting, character-focused composition, highly detailed, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 21,
+      "memory_title": "Rain on the Roof",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, lying on cabin sofa, eyes half-closed, sleepy expression, rain streaking on window glass in foreground, cozy atmosphere, dim blue-toned lighting, relaxed posture, cinematic film still, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 22,
+      "memory_title": "The Broken Radio",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, driving vintage convertible, hands on steering wheel, wind in hair, singing softly, relaxed happy expression, sunny road background, motion blur outside, road trip aesthetic, warm lighting, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 23,
+      "memory_title": "Postbox Anxiety",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, leaning against brick wall outside post office, looking down the road, waiting, anxious anticipation, focused gaze, outdoor daylight, indie movie aesthetic, street photography style, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 24,
+      "memory_title": "Map Reading",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, standing on dirt road edge, holding large unfolded paper map, looking out at scenic valley view, wind blowing map, expression of awe and acceptance, nature background, cinematic landscape shot, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 25,
+      "memory_title": "The Platinum Record Offer",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, sitting at hotel business center computer, face illuminated by cold blue screen light, conflicted expression, fear and temptation, holding pen over paper, sterile background, cinematic drama, moody lighting, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 26,
+      "memory_title": "Frequencies of Doubt",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, sitting in driver seat of car, gripping steering wheel tightly, knuckles white, intense distressed expression, highway on-ramp in background, shallow depth of field, dramatic tension, cinematic lighting, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 27,
+      "memory_title": "Static in the Head",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, sitting in crowded diner, reading a letter intensely, ignoring background, pained expression from noise, busy blurred background of people, focus on character, indie movie aesthetic, shallow depth of field, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 28,
+      "memory_title": "Resignation in Ink",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, standing on cliff edge at sunset, watching white papers fly away in wind, back to camera, peaceful expression, golden hour lighting, ocean background, sense of freedom, cinematic wide shot, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 29,
+      "memory_title": "The Liner Notes",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, packing leather bag in cabin, holding a stack of tied letters, gentle smile, nostalgic expression, rustic interior background, warm lighting, sentimental atmosphere, detailed photography, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    },
+    {
+      "memory_number": 30,
+      "memory_title": "A Song for You",
+      "prompt": "Alex, 29yo male, tousled jet black hair falling over forehead, dark expressive brown eyes, thin-rimmed silver round glasses, pale skin with faint under-eye shadows, tall lean build, oversized beige cashmere sweater, black tailored slacks, sitting on wooden cabin porch, holding acoustic guitar, writing on sheet music, peaceful content expression, looking at horizon, nature background, soft natural lighting, indie folk aesthetic, masterpiece, 8k",
+      "negative_prompt": "ugly, deformed, disfigured, mutation, extra limbs, bad anatomy, different face, different hair color, different eye color, cartoon, anime, low quality, blurry, text, watermark, beard, mustache, suit, tie, happy, laughing"
+    }
+  ]
+}
